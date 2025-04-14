@@ -21,12 +21,6 @@
     </details>
 </div>
 
-
-<div>
-  <a href="https://github.com/Tinikk777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tinikk777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
 <div style="display1; inline_block"><br>
     <h2>🔥 Skills</h2>
     <h3>Linguagens de Programação</h3>
